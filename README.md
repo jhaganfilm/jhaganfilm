@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Joe
 #### I'm a JS / React Developer
-![I am a JS / React Developer](https://github.com/jhaganfilm/jhaganfilm/blob/main/jhf.png?raw=true)
+![I am a JS / React Developer](https://github.com/josephhagancreative/josephhagancreative/blob/main/jhc.png?raw=true)
 
 I am early on in my web design journey and feel like I have a good command over the basics - looking for ideas and projects to improve my skills.
 
