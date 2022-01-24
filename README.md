@@ -2,7 +2,7 @@
 #### I'm a JS / React Developer
 ![I am a JS / React Developer](https://github.com/josephhagancreative/josephhagancreative/blob/main/jhc.png?raw=true)
 
-I am early on in my web design journey and feel like I have a good command over the basics - looking for ideas and projects to improve my skills.
+I am early on in my web design journey and feel like I have a good command over the basics - looking for ideas and projects to improve my skills
 
 I'm from England, but currently living in Tokyo, Japan! So if you want to talk about anything webdev, japan or videogames related please let me know over on Twitter!
 
