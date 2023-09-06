@@ -6,7 +6,7 @@ I have finished a couple of personal projects and am looking to get involved in 
 
 I'm from England, but currently living in Tokyo, Japan! So if you want to talk about anything webdev, japan or videogames related please let me know over on Twitter!
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / NEXT JS / JavaScript / TAILWIND / HTML / CSS 
 
 - 🔭 I’m currently working on : DeskStretch Website, Photography Portfolio Website 
-- 🌱 I’m currently learning Next JS, Typescript
+- 🌱 I’m currently learning Typescript and React Native
